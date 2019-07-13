@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="enter_your_city">Enter Your City......</string>
+    <string name="get_that">Get That</string>
+    <string name="textview">TextView</string>
+    <string name="Temp">Temp</string>
+</resources>
